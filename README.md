@@ -2,7 +2,7 @@
 Display hardware status from Open Hardware Monitor on Deckboard button
 
 ## NOW WITH RAM !!
-This extension is made by Riva Farabi, not me.
+This extension is made by Riva Farabi, not me. All credits go to him.
 
 I just updated it a bit to add the display of RAM usage
 
