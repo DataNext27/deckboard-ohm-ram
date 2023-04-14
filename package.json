@@ -1,13 +1,13 @@
 {
-    "name": "dekboard-ohm",
+    "name": "dekboard-ohm-ram",
     "version": "1.0.0",
-    "description": "Display hardware status from Open Hardware Monitor on Deckboard button",
+    "description": "Display hardware status from Open Hardware Monitor on Deckboard button (now with RAM usage)",
     "main": "index.js",
     "scripts": {
         "build": "deckboard-kit --build",
         "install": "deckboard-kit --install"
     },
-    "author": "Riva Farabi",
+    "author": "Riva Farabi and DataNext",
     "license": "MIT",
     "dependencies": {
         "babel-helpers": "^6.24.1",
