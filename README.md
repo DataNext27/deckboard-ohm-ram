@@ -19,4 +19,4 @@ I just updated it a bit to add the display of RAM load/usage
 ### Warning ! 
 Make sure you uninstall the original version of this extension to prevent any bug/error on Deckboard.
 
-By doing this, there is a chance that the button displaying OHM status will be deleted
+By doing this, there is a chance that the button displaying OHM status will be deleted, so you will need to recreate them.
